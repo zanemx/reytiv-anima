@@ -1,0 +1,380 @@
+.statusbar-iphone {
+  height: 47px;
+  position: relative;
+  width: 390px;
+}
+
+.statusbar-iphone .notch {
+  height: 30px;
+  left: 113px;
+  position: absolute;
+  top: 0;
+  width: 164px;
+}
+
+.statusbar-iphone .left-side {
+  height: 24px;
+  left: 33px;
+  position: absolute;
+  top: 10px;
+  width: 66px;
+}
+
+.statusbar-iphone .left-side-2 {
+  position: absolute;
+}
+
+.statusbar-iphone .statusbar-time-instance {
+  width: unset !important;
+}
+
+.statusbar-iphone .battery {
+  height: 13px;
+  left: 50px;
+  position: absolute;
+  width: 27px;
+}
+
+.statusbar-iphone .wifi {
+  height: 12px;
+  left: 26px;
+  position: absolute;
+  width: 17px;
+}
+
+.statusbar-iphone .icon-mobile-signal {
+  height: 12px;
+  left: 0;
+  position: absolute;
+  width: 18px;
+}
+
+.statusbar-iphone .recording-indicator {
+  background-color: var(--defaultsystemorangelight);
+  border-radius: 3px;
+  height: 6px;
+  left: 6px;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.statusbar-iphone .right-side {
+  position: absolute;
+}
+
+.statusbar-iphone .img {
+  height: 13px;
+  left: 50px;
+  position: absolute;
+  width: 27px;
+}
+
+.statusbar-iphone .wifi-2 {
+  height: 12px;
+  left: 26px;
+  position: absolute;
+  width: 17px;
+}
+
+.statusbar-iphone .icon-mobile-signal-2 {
+  height: 12px;
+  left: 0;
+  position: absolute;
+  width: 18px;
+}
+
+.statusbar-iphone .class {
+  font-family: "SF Pro Text-Semibold", Helvetica !important;
+  font-size: 17px !important;
+  font-style: unset !important;
+  font-weight: 400 !important;
+  letter-spacing: -0.41px !important;
+  line-height: 22px !important;
+}
+
+.statusbar-iphone .class-2 {
+  color: #010101 !important;
+  font-family: "SF Pro Text-Semibold", Helvetica !important;
+  font-size: 17px !important;
+  font-style: unset !important;
+  font-weight: 400 !important;
+  letter-spacing: -0.41px !important;
+  line-height: 22px !important;
+}
+
+.statusbar-iphone .recording-indicator-2 {
+  background-color: var(--defaultsystemgreenlight);
+  border-radius: 3px;
+  height: 6px;
+  left: 6px;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.statusbar-iphone .type-0-share-play {
+  height: 13px;
+  left: 286px;
+  top: 19px;
+  width: 77px;
+}
+
+.statusbar-iphone .type-0-recording-orange {
+  height: 24px;
+  left: 33px;
+  top: 10px;
+  width: 66px;
+}
+
+.statusbar-iphone .type-0-mic-active {
+  height: 24px;
+  left: 286px;
+  top: 8px;
+  width: 77px;
+}
+
+.statusbar-iphone .type-0-default {
+  height: 21px;
+  left: 27px;
+  top: 14px;
+  width: 54px;
+}
+
+.statusbar-iphone .type-0-video-active {
+  height: 21px;
+  left: 27px;
+  top: 14px;
+  width: 54px;
+}
+
+.statusbar-iphone .type-0-navigation-blue {
+  height: 24px;
+  left: 33px;
+  top: 10px;
+  width: 66px;
+}
+
+.statusbar-iphone .type-0-phone-green {
+  height: 24px;
+  left: 33px;
+  top: 10px;
+  width: 66px;
+}
+
+.statusbar-iphone .type-4-share-play {
+  height: 13px;
+  left: 286px;
+  top: 19px;
+  width: 77px;
+}
+
+.statusbar-iphone .type-4-recording-orange {
+  height: 13px;
+  left: 286px;
+  top: 19px;
+  width: 77px;
+}
+
+.statusbar-iphone .type-4-mic-active {
+  height: 21px;
+  left: 27px;
+  top: 14px;
+  width: 54px;
+}
+
+.statusbar-iphone .type-4-default {
+  height: 13px;
+  left: 286px;
+  top: 19px;
+  width: 77px;
+}
+
+.statusbar-iphone .type-4-video-active {
+  height: 24px;
+  left: 286px;
+  top: 8px;
+  width: 77px;
+}
+
+.statusbar-iphone .type-4-navigation-blue {
+  height: 13px;
+  left: 286px;
+  top: 19px;
+  width: 77px;
+}
+
+.statusbar-iphone .type-4-phone-green {
+  height: 13px;
+  left: 286px;
+  top: 19px;
+  width: 77px;
+}
+
+.statusbar-iphone .left-side-2.type-0-share-play .battery {
+  top: 0;
+}
+
+.statusbar-iphone .left-side-2.type-0-recording-orange .battery {
+  top: 11px;
+}
+
+.statusbar-iphone .left-side-2.type-0-mic-active .battery {
+  top: 11px;
+}
+
+.statusbar-iphone .left-side-2.type-0-default .battery {
+  top: 11px;
+}
+
+.statusbar-iphone .left-side-2.type-0-video-active .battery {
+  top: 11px;
+}
+
+.statusbar-iphone .left-side-2.type-0-navigation-blue .battery {
+  top: 11px;
+}
+
+.statusbar-iphone .left-side-2.type-0-phone-green .battery {
+  top: 11px;
+}
+
+.statusbar-iphone .left-side-2.type-0-share-play .wifi {
+  top: 1px;
+}
+
+.statusbar-iphone .left-side-2.type-0-recording-orange .wifi {
+  top: 12px;
+}
+
+.statusbar-iphone .left-side-2.type-0-mic-active .wifi {
+  top: 12px;
+}
+
+.statusbar-iphone .left-side-2.type-0-default .wifi {
+  top: 12px;
+}
+
+.statusbar-iphone .left-side-2.type-0-video-active .wifi {
+  top: 12px;
+}
+
+.statusbar-iphone .left-side-2.type-0-navigation-blue .wifi {
+  top: 12px;
+}
+
+.statusbar-iphone .left-side-2.type-0-phone-green .wifi {
+  top: 12px;
+}
+
+.statusbar-iphone .left-side-2.type-0-share-play .icon-mobile-signal {
+  top: 1px;
+}
+
+.statusbar-iphone .left-side-2.type-0-recording-orange .icon-mobile-signal {
+  top: 12px;
+}
+
+.statusbar-iphone .left-side-2.type-0-mic-active .icon-mobile-signal {
+  top: 12px;
+}
+
+.statusbar-iphone .left-side-2.type-0-default .icon-mobile-signal {
+  top: 12px;
+}
+
+.statusbar-iphone .left-side-2.type-0-video-active .icon-mobile-signal {
+  top: 12px;
+}
+
+.statusbar-iphone .left-side-2.type-0-navigation-blue .icon-mobile-signal {
+  top: 12px;
+}
+
+.statusbar-iphone .left-side-2.type-0-phone-green .icon-mobile-signal {
+  top: 12px;
+}
+
+.statusbar-iphone .right-side.type-4-share-play .img {
+  top: 0;
+}
+
+.statusbar-iphone .right-side.type-4-recording-orange .img {
+  top: 0;
+}
+
+.statusbar-iphone .right-side.type-4-mic-active .img {
+  top: 0;
+}
+
+.statusbar-iphone .right-side.type-4-default .img {
+  top: 0;
+}
+
+.statusbar-iphone .right-side.type-4-video-active .img {
+  top: 11px;
+}
+
+.statusbar-iphone .right-side.type-4-navigation-blue .img {
+  top: 0;
+}
+
+.statusbar-iphone .right-side.type-4-phone-green .img {
+  top: 0;
+}
+
+.statusbar-iphone .right-side.type-4-share-play .wifi-2 {
+  top: 1px;
+}
+
+.statusbar-iphone .right-side.type-4-recording-orange .wifi-2 {
+  top: 1px;
+}
+
+.statusbar-iphone .right-side.type-4-mic-active .wifi-2 {
+  top: 1px;
+}
+
+.statusbar-iphone .right-side.type-4-default .wifi-2 {
+  top: 1px;
+}
+
+.statusbar-iphone .right-side.type-4-video-active .wifi-2 {
+  top: 12px;
+}
+
+.statusbar-iphone .right-side.type-4-navigation-blue .wifi-2 {
+  top: 1px;
+}
+
+.statusbar-iphone .right-side.type-4-phone-green .wifi-2 {
+  top: 1px;
+}
+
+.statusbar-iphone .right-side.type-4-share-play .icon-mobile-signal-2 {
+  top: 1px;
+}
+
+.statusbar-iphone .right-side.type-4-recording-orange .icon-mobile-signal-2 {
+  top: 1px;
+}
+
+.statusbar-iphone .right-side.type-4-mic-active .icon-mobile-signal-2 {
+  top: 1px;
+}
+
+.statusbar-iphone .right-side.type-4-default .icon-mobile-signal-2 {
+  top: 1px;
+}
+
+.statusbar-iphone .right-side.type-4-video-active .icon-mobile-signal-2 {
+  top: 12px;
+}
+
+.statusbar-iphone .right-side.type-4-navigation-blue .icon-mobile-signal-2 {
+  top: 1px;
+}
+
+.statusbar-iphone .right-side.type-4-phone-green .icon-mobile-signal-2 {
+  top: 1px;
+}

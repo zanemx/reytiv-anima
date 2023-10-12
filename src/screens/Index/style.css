@@ -1,0 +1,103 @@
+.index {
+  background-color: #061321;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.index .div-2 {
+  background-color: var(--main-dark-color);
+  height: 852px;
+  position: relative;
+  width: 390px;
+}
+
+.index .home-indicator-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 818px !important;
+  width: 390px !important;
+}
+
+.index .design-component-instance-node {
+  background-color: var(--white) !important;
+  left: 128px !important;
+}
+
+.index .frame {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 14px;
+  left: 175px;
+  position: absolute;
+  top: 572px;
+}
+
+.index .ellipse {
+  background-color: var(--button-color);
+  border-radius: 2px;
+  height: 4px;
+  position: relative;
+  width: 4px;
+}
+
+.index .ellipse-2 {
+  background-color: var(--grey-01);
+  border-radius: 2px;
+  height: 4px;
+  position: relative;
+  width: 4px;
+}
+
+.index .text-wrapper-2 {
+  color: var(--white);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 589px;
+  width: 358px;
+}
+
+.index .text-wrapper-3 {
+  color: var(--white);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 763px;
+  width: 358px;
+}
+
+.index .frame-2 {
+  height: 139px;
+  left: 136px;
+  position: absolute;
+  top: 281px;
+  width: 118px;
+}
+
+.index .statusbar-iphone-13 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.index .statusbar-iphone-instance {
+  color: var(--white) !important;
+  font-family: "SF Pro Text-Semibold", Helvetica !important;
+  font-size: 17px !important;
+  font-style: unset !important;
+  font-weight: 400 !important;
+  letter-spacing: -0.41px !important;
+  line-height: 22px !important;
+}
